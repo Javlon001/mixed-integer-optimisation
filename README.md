@@ -15,3 +15,4 @@ The project details are:
 | 6 | 8 | 10 |
 
 The goal is to find the optimal project portfolio that maximizes the total NPV while staying within the 20 million USD budget.
+![Alt Text](./image.png)
