@@ -1,7 +1,5 @@
-# mixed-integer-optimisation
-The Repository is for illustration purposes! The python codes are for Mixed-integer optimisation problems. 
-
-# Example (Project portfolio)
+# Mixed-Integer-Optimisation
+## Example (Project portfolio)
 
 **Budget to be invested: 20 million USD**
 
