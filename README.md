@@ -16,7 +16,7 @@ The project details are:
 
 The goal is to find the optimal project portfolio that maximizes the total NPV while staying within the 20 million USD budget.
 <p align="center">
-  <img src="image.png" alt="Description of the image" width="300">
+  <img src="image.png" alt="Optimisation Problem code output" width="300">
 </p>
 
 
