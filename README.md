@@ -1,7 +1,7 @@
-# Mixed-Integer-Optimisation
+# Mixed-Integer-Optimization
 ## Exercise Problem
 
-An investor wants to invest 20 million USD and is considering 6 project candidates. Each project has an associated investment cost and net present value (NPV). The investor wants to select a portfolio of projects that maximizes the total NPV.
+An investor wants to invest 20 million USD and is considering 6 projects. Each project has an associated investment cost and net present value (NPV). The investor wants to select a portfolio of projects that maximizes the total NPV.
 
 The project details are:
 
