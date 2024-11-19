@@ -1,18 +1,17 @@
 # Mixed-Integer-Optimisation
-## Example (Project portfolio)
+## Exercise Problem
 
-**Budget to be invested: 20 million USD**
+An investor wants to invest 20 million USD and is considering 6 project candidates. Each project has an associated investment cost and net present value (NPV). The investor wants to select a portfolio of projects that maximizes the total NPV.
 
-**Project candidates 1, ..., 6:**
+The project details are:
 
-| | Investment [Mio USD] | NPV [Mio USD] |
+| Project | Investment (Mio USD) | NPV (Mio USD) |
 | --- | --- | --- |
 | 1 | 5 | 6 |
-| 2 | 5 | 6 |
+| 2 | 5 | 6 |  
 | 3 | 5 | 6 |
 | 4 | 5 | 6 |
 | 5 | 8 | 10 |
 | 6 | 8 | 10 |
 
-**Sought: Project portfolio with maximum NPV**
-**Which Projects shall we invest?**
+The goal is to find the optimal project portfolio that maximizes the total NPV while staying within the 20 million USD budget.
