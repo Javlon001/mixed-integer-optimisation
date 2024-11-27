@@ -21,3 +21,6 @@ The goal is to find the optimal project portfolio that maximizes the total NPV w
 
 Here you can see that we need to invest in the projects 1,2,3,4 to maximize NPV within the budget. 
 
+Here I added a few lines
+Here I added a few lines
+
