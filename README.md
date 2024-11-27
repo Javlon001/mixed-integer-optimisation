@@ -19,5 +19,5 @@ The goal is to find the optimal project portfolio that maximizes the total NPV w
   <img src="image.png" alt="Optimisation Problem code output" width="300">
 </p>
 
-Here you can see that we need to invest in the projects 1,2,3,4 to maximize NPV within the budget. 
+Here you can see that we need to invest in the projects 1,2,3,4 to maximize NPV within the budget. While the projects 5 and 6 are left out. 
 
